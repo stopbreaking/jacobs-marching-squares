@@ -1,6 +1,6 @@
 document.querySelector('#app3').innerHTML = `
   <div id="embeddedGameSquares">
-    <embed type="text/html" src="/JacobsMarchingSquaresWrapped/JacobsMarchingSquaresBuild/index.html" width="100%" height="720px">
+    <embed type="text/html" src="/JacobsMarchingSquaresBuildx/index.html" width="100%" height="720px">
   </div>
   <div id = "projectBlurb"> 
     <h1>Marching Squares Project</h1>
